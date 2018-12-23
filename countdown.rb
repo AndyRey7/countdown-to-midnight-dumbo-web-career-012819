@@ -10,5 +10,5 @@ def countdown(numberr)
 end
 
 def countdown_with_sleep(a_number) 
-sleep(5.a_number)
+sleep(a_number.seconds)
 end
